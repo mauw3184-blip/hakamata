@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Free Online Games</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="top">
+  <h1>🎮 Free Online Games</h1>
+  <p>Play games instantly in your browser</p>
+</header>
+
+<nav class="menu">
+  <a href="index.html">Home</a>
+  <a href="about.html">About</a>
+  <a href="privacy.html">Privacy</a>
+</nav>
+
+<section class="games">
+  <a class="game-card" href="game.html?g=tictactoe">
+    <h3>Tic Tac Toe</h3>
+    <p>Classic strategy game</p>
+    <span>Play ▶</span>
+  </a>
+</section>
+
+<footer class="footer">
+  <p>© 2026 Free Online Games</p>
+</footer>
+
+</body>
+</html>
